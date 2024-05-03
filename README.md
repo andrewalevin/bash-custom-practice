@@ -1,5 +1,5 @@
-# Bash Custom Practice
-🖥 Bash Custom Practice
+# Bash Practice
+🖥 Bash Practice
 
 
 - [Alias bb - BBEdit](#alias-bb---bbedit)
