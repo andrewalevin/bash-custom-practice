@@ -1,9 +1,9 @@
-# bash-custom-practice
+# Bash Custom Practice
 🖥 Bash Custom Practice
 
 
-- [Alias bb - BBEdit]()
-- [etc2]()
+- [Alias bb - BBEdit](#alias-bb---bbedit)
+- [etc]()
 
 
 ## Alias bb - BBEdit
